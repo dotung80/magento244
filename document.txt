@@ -1,0 +1,6 @@
+https://developer.adobe.com/commerce/php/development/
+https://developer.adobe.com/commerce/php/development/prepare/
+https://developer.adobe.com/commerce/php/best-practices/extensions/
+https://developer.adobe.com/commerce/php/tutorials/
+https://vi-magento.com/danh-sach-magento-2/
+https://hoaingo.com/magento-2/huong-dan-tao-module-trong-magento-2.html tạo module cơ bản
